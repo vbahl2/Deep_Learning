@@ -1,0 +1,15 @@
+[submodule "exercise_0"]
+	path = exercise_0
+	url = git@gitlab.lrz.de:i2dl/exercise_0.git
+[submodule "exercise_1"]
+	path = exercise_1
+	url = git@gitlab.lrz.de:i2dl/exercise_1.git
+[submodule "exercise_2"]
+	path = exercise_2
+	url = git@gitlab.lrz.de:i2dl/exercise_2.git
+[submodule "exercise_3"]
+	path = exercise_3
+	url = git@gitlab.lrz.de:i2dl/exercise_3.git
+[submodule "exercise_4"]
+	path = exercise_4
+	url = git@gitlab.lrz.de:i2dl/exercise_4.git
